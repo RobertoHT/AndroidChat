@@ -4,7 +4,7 @@
     android:id="@+id/layoutMainContainer"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="edu.galileo.android.androidchat.LoginActivity">
+    tools:context="edu.galileo.android.androidchat.login.LoginActivity">
 
     <android.support.design.widget.TextInputLayout
         android:layout_width="match_parent"

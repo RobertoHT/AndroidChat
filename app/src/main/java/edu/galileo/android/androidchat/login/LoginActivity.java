@@ -1,4 +1,4 @@
-package edu.galileo.android.androidchat;
+package edu.galileo.android.androidchat.login;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -9,6 +9,7 @@ import android.widget.EditText;
 import butterknife.Bind;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
+import edu.galileo.android.androidchat.R;
 
 public class LoginActivity extends AppCompatActivity {
 
